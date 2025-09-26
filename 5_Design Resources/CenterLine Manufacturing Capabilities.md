@@ -3,7 +3,7 @@
 ## Machining:
   - OMAX Waterjet
       - 4ft x 10ft Maximum part size
-      - Maximum 4in Thickness
+      - Maximum 4in thickness steel
       - Taper Compensation
   - Band Saw
       - 1ft thick/diameter maximum
@@ -36,3 +36,4 @@
       - Minimum bend radius: 5 * material thickness
    
   
+
