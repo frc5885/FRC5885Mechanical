@@ -1,4 +1,4 @@
-## 🤖 Welcome to the Villanova WiredCats Robotics Mechanical Team! 🛠️
+## 🤖 Welcome to the WiredCats Mechanical Team! 🛠️
 ## FRC Team 5885 | Villanova WiredCats | LaSalle, Ontario, Canada | [wiredcats5885.ca](https://www.wiredcats5885.ca)
 
 Welcome to the official GitHub repository for FRC Team 5885, the Villanova WiredCats! This is a central hub for our team's mechanical design and documentation. Whether you are a new member eager to learn or a veteran contributor, this repository will be your primary resource for all things related to our robot's mechanical subsystems.
@@ -61,6 +61,6 @@ Learn CAD! CAD is probably one of the most powerful tools, it lets you design, s
 
 If you have questions or need assistance with GitHub, please ask a mentor. We are here to help you succeed!
 
-Mechanical Mentors (As of Sept 2025)
-John Thibert
-Joe Peters
+Mechanical Mentors (As of Sept 2025):
+- John Thibert
+- Joe Peters
