@@ -51,6 +51,7 @@ Our goal is to foster a collaborative environment where you can develop skills i
 
 * [**5\_Design Resources**](https://github.com/frc5885/FRC5885Mechanical/tree/main/5_Design%20Resources)
     * [1\_CenterLine Commonly Stocked Materials](https://github.com/frc5885/FRC5885Mechanical/tree/main/5_Design%20Resources/1_CenterLine%20Commonly%20Stocked%20Materials)
+    * [2\_Robot Linkage Design](https://www.youtube.com/watch?v=diFrmqUmeug&list=PLbgv3N_uxdamkeJ4yETStKSr8Pf8lRMBB)
 
 
 ⚙️ How to Contribute
