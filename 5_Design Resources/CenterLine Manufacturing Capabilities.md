@@ -8,6 +8,7 @@
   - Band Saw
       - 1ft thick/diameter maximum
   - CNC Router
+      - 4ft x 10ft Maximum part size
       - Non-metallic materials only
       - 2D shapes
       - Minimum 2MM internal radius corners
@@ -36,4 +37,5 @@
       - Minimum bend radius: 5 * material thickness
    
   
+
 
